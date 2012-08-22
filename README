@@ -1,0 +1,8 @@
+This project is a collection of ITK-based command line tools
+to perform atlas-based segmentation.
+
+The project is copyrighted by the Insight Software Consortium
+and it is distributed under the Apache 2.0 License.
+
+See LICENSE and NOTICE files for details.
+
